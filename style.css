@@ -1,0 +1,22 @@
+h1{
+    background-color: brown ;
+    text-align: center;
+    color: aqua;
+    font-size: 30px;
+}
+.emp-name{
+text-align: center;
+background-color:darkgray;
+font-weight: 3000;
+}
+#ceo{
+text-align: center;
+background-color: coral;
+font-size:40px ;
+}
+button{
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    color: aqua;
+}
